@@ -1,0 +1,17 @@
+request  to enter a positive number repeatedly  until the user enters a zero value from the user
+determines and outputs the largest of the numbers that were entered
+second request to input their name from the user
+stores their name into variable called "first_name"
+request to print out first_name along with phrase "Hello,World"
+request to read an arbitrary number of integers
+returns their arithmetic average
+enter grocery list
+prints the products that are still left to buy
+flowchart
+
+
+
+
+
+                
+		
